@@ -1,0 +1,12 @@
+What is Object Oriented Programming - OOP
+
+- It is a programming style.
+- In OOP, we convert real life entities into software objects.
+- We only take the entities, attributes and behaviors that are relevant for the system we want to build for analysis 
+
+Benefits of Using OOP
+- Readability improved.
+- Communication between developers improved.
+- Maintainability improved (Modularization - DRY principle).
+- Scalability improved.
+
